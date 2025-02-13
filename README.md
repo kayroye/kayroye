@@ -10,7 +10,7 @@ Here are some of the projects I've been working on:
 
 - **Mustang Planner**: A project aimed at assisting students in organizing their academic schedules efficiently. [GitHub Repository](https://github.com/kayroye/mustang-planner)
 
-- **Ollama Parallel Requests**: A Python-based project designed to handle multiple API requests concurrently, improving data retrieval efficiency. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
+- **Ollama Parallel Requests**: A Python-based project designed to handle multiple Ollama API requests concurrently. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
 
 - **Prova**: A web tool allowing you to interact with API endpoints via a chat interface, powered by OpenAI. [GitHub Repository](bals)
   ![Prova Landing Page](https://github.com/kayroye/Prova/raw/dev/docs/landingPage.jpeg)
