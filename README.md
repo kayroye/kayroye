@@ -12,7 +12,7 @@ Here are some of the projects I've been working on:
 
 - **Ollama Parallel Requests**: A Python-based project designed to handle multiple Ollama API requests concurrently. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
 
-- **Prova**: A web tool allowing you to interact with API endpoints via a chat interface, powered by OpenAI. [GitHub Repository](bals)
+- **Prova**: A web tool allowing you to interact with API endpoints via a chat interface, powered by OpenAI. [GitHub Repository](https://github.com/kayroye/Prova)
   ![Prova Landing Page](https://github.com/kayroye/Prova/raw/dev/docs/landingPage.jpeg)
 
 ## Contributions
