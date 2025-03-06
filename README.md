@@ -42,4 +42,4 @@ In addition to my own projects, I actively contribute to other repositories:
 
 ## Contact
 
-Feel free to reach out to me at [kalanroye@gmail.com](mailto:kalanroye+github@gmail.com).
+Feel free to reach out to me at [hello@kalanroye.com](mailto:hello+github@kalanroye.com).
