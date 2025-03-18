@@ -13,7 +13,6 @@ Here are some of the projects I've been working on:
 - **Ollama Parallel Requests**: A Python-based project designed to handle multiple Ollama API requests concurrently. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
 
 - **Prova**: A web tool allowing you to interact with API endpoints via a chat interface, powered by OpenAI. [GitHub Repository](https://github.com/kayroye/Prova)
-  ![Prova Landing Page](https://github.com/kayroye/Prova/raw/dev/docs/landingPage.jpeg)
 
 ## Contributions
 
@@ -36,9 +35,8 @@ In addition to my own projects, I actively contribute to other repositories:
 - **Frameworks and Libraries**:   
   Next.js, React.js, NumPy, Pandas, Torch 
 
-- **Tools and Platforms**:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  GitHub, Vercel, Salesforce
+- **Tools and Platforms**:
+  Vercel, Salesforce
 
 ## Contact
 
