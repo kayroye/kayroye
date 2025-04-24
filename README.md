@@ -8,7 +8,7 @@ Here are some of the projects I've been working on:
 
 - **Conclave**: An open-source chat application that enables individuals to interact with each other and large language models of their choice. [GitHub Repository](https://github.com/kayroye/conclave)
 
-- **MustangX**: A project aimed at assisting students in organizing their academic schedules efficiently. [GitHub Repository](https://github.com/kayroye/mustang-planner)
+- **MustangX**: A project aimed at assisting students in organizing their academic schedules efficiently. 
 
 - **Ollama Parallel Requests**: A Python-based project designed to handle multiple Ollama API requests concurrently. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
 
