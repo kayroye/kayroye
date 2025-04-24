@@ -6,17 +6,17 @@ I'm currently pursuing a Bachelor's degree in Computer Science in Canada. I enjo
 
 Here are some of the projects I've been working on:
 
-- **Conclave**: An open-source chat application that enables individuals to interact with each other and large language models of their choice. [GitHub Repository](https://github.com/kayroye/conclave)
-
 - **MustangX**: A project aimed at assisting students in organizing their academic schedules efficiently. 
 
 - **Ollama Parallel Requests**: A Python-based project designed to handle multiple Ollama API requests concurrently. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
 
 - **Prova**: A web tool allowing you to interact with API endpoints via a chat interface, powered by OpenAI. [GitHub Repository](https://github.com/kayroye/Prova)
 
+- **Conclave**: An open-source chat application that enables individuals to interact with each other and large language models of their choice. [GitHub Repository](https://github.com/kayroye/conclave)
+
 ## Contributions
 
-In addition to my own projects, I actively contribute to other repositories:
+In addition to my own projects, I try to contribute to other repositories:
 
 - **Ollama Batch Request Tool**: Collaborated on developing a Python script to act as a batch processor for Ollama, similar to OpenAI's batch API. [GitHub Repository](https://github.com/nathan-r-a-schultz/ollama-batch-requests)
 
