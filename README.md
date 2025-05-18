@@ -6,7 +6,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science in Canada. I enjo
 
 Here are some of the projects I've been working on:
 
-- **MustangX**: A project aimed at assisting students in organizing their academic schedules efficiently. 
+- **Crux**: A project aimed at assisting students in organizing their academic schedules efficiently and finding relevant courses to take in university. 
 
 - **Ollama Parallel Requests**: A Python-based project designed to handle multiple Ollama API requests concurrently. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
 
@@ -33,10 +33,10 @@ In addition to my own projects, I try to contribute to other repositories:
   Python, JavaScript, TypeScript, Java, C, HTML, CSS, Verse
   
 - **Frameworks and Libraries**:   
-  Next.js, React.js, NumPy, Pandas, Torch 
+  Next.js, React.js, NumPy, Pandas, PyTorch 
 
 - **Tools and Platforms**:
-  Vercel, Salesforce
+  Vercel, Salesforce, AWS, Google Cloud, OpenAI
 
 ## Contact
 
