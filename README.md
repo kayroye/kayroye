@@ -6,7 +6,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science in Canada. I enjo
 
 Here are some of the projects I've been working on:
 
-- **Crux**: A project aimed at assisting students in organizing their academic schedules efficiently and finding relevant courses to take in university. 
+- **Crux**: A project aimed at assisting students in organizing their academic schedules efficiently and finding relevant courses to take in university. [GitHub Repository](https://github.com/kayroye/Crux-Planner)
 
 - **Ollama Parallel Requests**: A Python-based project designed to handle multiple Ollama API requests concurrently. [GitHub Repository](https://github.com/kayroye/ollama-parallel-requests)
 
