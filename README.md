@@ -1,6 +1,6 @@
 # Hi there, I'm Kay Roye 👋
 
-I'm currently pursuing a Bachelor's degree in Computer Science in Canada. I enjoy studying computer science and working on side projects on my own to boost my learning. At the moment, I am currently obsessed with AI and ML, particularly anything in the rapidly developing space of **Large Language Models (LLMs)**.
+I'm currently pursuing a Bachelor's degree in Computer Science in Canada. I enjoy studying computer science and working on side projects on my own to boost my learning. At the moment, I am currently obsessed with web development and AI/ML, particularly anything in the rapidly developing space of **Large Language Models (LLMs)**.
 
 ## Projects
 
