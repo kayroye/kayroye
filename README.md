@@ -10,8 +10,8 @@ The main project I've been working on is:
 
 Recently I've been maintaining:
 
-- **Linktree**: A simple SPA built with Next.js and React.js to display links to my social media accounts (and anything else related to myself in the future).
-- **Portfolio & Blog**: My own site where I discuss the work I've done and am currently doing. Check it out to find out more about me!
+- **Linktree**: A simple SPA built with Next.js and React.js to display links to my social media accounts (and anything else related to myself in the future). [GitHub Repository](https://github.com/kayroye/linktree)
+- **Portfolio & Blog**: My own site where I discuss the work I've done and am currently doing. Check it out to find out more about me! [Website](https://www.kalanroye.com)
 
 ## Contributions
 
