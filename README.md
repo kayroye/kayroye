@@ -1,4 +1,4 @@
-# Hi there, I'm Kay Roye 👋
+# Hi there, I'm Kalan Roye 👋
 
 I'm currently pursuing a Bachelor's degree in Computer Science in Canada. I enjoy studying computer science and working on side projects on my own to boost my learning. At the moment, I am currently obsessed with web development and AI/ML, particularly anything in the rapidly developing space of **Large Language Models (LLMs)**.
 
@@ -7,6 +7,11 @@ I'm currently pursuing a Bachelor's degree in Computer Science in Canada. I enjo
 The main project I've been working on is:
 
 - **Crux**: A project aimed at assisting students in organizing their academic schedules efficiently and finding relevant courses to take in university. [GitHub Repository](https://github.com/kayroye/Crux-Planner)
+
+Recently I've been maintaining:
+
+- **Linktree**: A simple SPA built with Next.js and React.js to display links to my social media accounts (and anything else related to myself in the future).
+- **Portfolio & Blog**: My own site where I discuss the work I've done and am currently doing. Check it out to find out more about me!
 
 ## Contributions
 
