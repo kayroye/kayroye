@@ -26,13 +26,6 @@ I'm a Computer Science student at Western University who loves building full-sta
 
 - **Ollama Batch Request Tool**: Collaborated on a Python batch processor for Ollama, similar to OpenAI's batch API. [GitHub Repository](https://github.com/nathan-r-a-schultz/ollama-batch-requests)
 
-## Experience
-
-- **Pipeline Engineer @ 3DWestern** (Sep 2025 - Present) - Building 3D printing asset pipelines with AI model vetting, Docker, and Linux server administration
-- **Software Developer @ Western Cyber Society** (Jan 2025 - Mar 2025) - Built VocalGuard AI, won Best Real-World Application at Toronto Tech Expo
-- **Full-Stack Web Developer @ Unifor** (Dec 2024 - Jan 2025) - Built a Next.js/React web app with admin dashboard for District 300
-- **Data Analyst @ Regional Municipality of Halton** (Jun 2024 - Aug 2024) - Migrated CRM records to a Salesforce knowledge base I structured, built AI chatbot prototype, presented to senior leadership
-
 ## Skills
 
 - **Programming Languages**:
