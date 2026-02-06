@@ -10,7 +10,7 @@ I'm a Computer Science student at Western University who loves building full-sta
 
 ## Projects
 
-- **Crux Planner**: Academic planning platform helping students organize schedules and find courses. Built with Next.js, Supabase, Redis, and OpenAI. 50+ active users, 250+ tests, full CI/CD pipeline. [GitHub Repository](https://github.com/kayroye/Crux-Planner)
+- **Crux Planner**: Academic planning platform helping students organize schedules and find courses. Built with Next.js, Supabase, Redis, OpenAI's Moderation API, and Groq. 50+ active users, 250+ tests, full CI/CD pipeline. [GitHub Repository](https://github.com/kayroye/Crux-Planner)
 
 - **EcoSentinel**: Agricultural risk management system that combines satellite imagery with real-time IoT sensor data to give farmers early fire threat warnings. Uses a Digital Twin of farm microclimates with live Fire Weather Index calculations and ML-based fire prediction. Built with Streamlit, scikit-learn, MQTT, and TELUS GPT-OSS-120B for the TELUS AI Hackathon 2026 (AI + IoT track). [GitHub Repository](https://github.com/kayroye/EcoSentinel)
 
