@@ -5,26 +5,21 @@ I'm a Computer Science student at Western University who loves building full-sta
 ## Highlights
 
 - **1st Place + People's Choice** at Western Startup Challenge for Crux Planner (beat 88 students)
+- **Best Research/Innovation Project ($1,000)** at Canadian Tech Summit 2026 (beat 44 teams)
 - **Best Real-World Application** at Toronto Tech Expo 2025 for VocalGuard AI
 - **~$2,000 in Western University Ivey funding** for Crux Planner, with 50+ active users
 
 ## Projects
 
-- **Crux Planner**: Academic planning platform helping students organize schedules and find courses. Built with Next.js, Supabase, Redis, OpenAI's Moderation API, and Groq. 50+ active users, 250+ tests, full CI/CD pipeline. [GitHub Repository](https://github.com/kayroye/Crux-Planner)
+- **Crux Planner** - Academic planning platform helping students discover courses, organize schedules, and make better enrollment decisions. Built with Next.js, Supabase, Redis, and LLM-powered moderation, it earned ~$2,000 in Ivey funding and $1,000 from the Canadian Tech Summit, with 50+ active users, 250+ tests, and a full CI/CD pipeline. [Website](https://www.cruxplanner.ca) | [GitHub Repository](https://github.com/kayroye/Crux-Planner)
 
-- **EcoSentinel**: Agricultural risk management system that combines satellite imagery with real-time IoT sensor data to give farmers early fire threat warnings. Uses a Digital Twin of farm microclimates with live Fire Weather Index calculations and ML-based fire prediction. Built with Streamlit, scikit-learn, MQTT, and TELUS GPT-OSS-120B for the TELUS AI Hackathon 2026 (AI + IoT track). [GitHub Repository](https://github.com/kayroye/EcoSentinel)
+- **TorqueDesk** - Scratch-built automotive repair management system with a C++ server, SQLite-backed business logic, and a Qt5 desktop client for mechanics and customers. A strong showcase of systems programming, desktop development, and end-to-end product architecture. [GitHub Repository](https://github.com/kayroye/TorqueDesk)
 
-- **VocalGuard AI**: AI voice fraud detection system built with PyTorch, FastAPI, and Next.js. Uses Random Forest classifiers, reached 87.34% accuracy. Won Best Real-World Application at Toronto Tech Expo. [Winners Page](https://www.canadiantechsummit.ca/#winners)
+- **CareLink** - 2nd place hackathon-winning healthcare referral platform designed to modernize care coordination for rural Canada using open-source AI and self-hosted infrastructure. Built around a real access-to-care problem with clear social impact and practical product direction. [Devpost](https://devpost.com/software/carelink-9d1q5n) | [GitHub Repository](https://github.com/kayroye/CareLink)
 
-- **JYNE**: Discord bot with AI image generation using Discord.js, OpenAI, MongoDB, and Stable Diffusion. [GitHub Repository](https://github.com/kayroye/JYNE)
+- **EcoSentinel** - Agricultural risk intelligence system that combines satellite imagery, mock IoT sensor streams, digital twin modeling, and ML-based fire prediction to help prevent farm disasters before they happen. Built for the TELUS AI Hackathon. [GitHub Repository](https://github.com/kayroye/EcoSentinel)
 
-- **LLMCraft**: Minecraft Forge mod that connects in-game world data to LLMs. Built in Java. [GitHub Repository](https://github.com/kayroye/LLMCraft)
-
-- **Portfolio & Blog**: My personal site where I write about what I'm building and learning. [Website](https://www.kalanroye.com)
-
-## Contributions
-
-- **Ollama Batch Request Tool**: Collaborated on a Python batch processor for Ollama, similar to OpenAI's batch API. [GitHub Repository](https://github.com/nathan-r-a-schultz/ollama-batch-requests)
+- **LLMCraft** - Minecraft Forge mod that connects live in-game world data to large language models, turning a sandbox game into an experimental interface for AI-driven interaction and gameplay systems. [GitHub Repository](https://github.com/kayroye/LLMCraft)
 
 ## Skills
 
